@@ -92,8 +92,7 @@ header nav ul li a:hover {
 }
 
 .banner-card img{
-    max-width: 100%;
-    height: auto;
+    size: cover;
 }
 
 .banner-text{
